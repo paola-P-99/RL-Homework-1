@@ -9,7 +9,7 @@ The goal of this project is to bring up a 4-degrees-of-freedom robot manipulator
 ### Installation
 1. **Clone the repository** within the source folder of your ROS2 workspace.
   ```
-  git clone https://github.com/elenadag/RL24-----Homework1.git
+  https://github.com/paola-P-99/RL-Homework-1.git
   ```
 2. **Build the packages** in your ROS2 workspace.
   ```
